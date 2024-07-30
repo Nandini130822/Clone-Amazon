@@ -1,0 +1,1749 @@
+@import url('https://fonts.cdnfonts.com/css/amazon-ember');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+
+
+.nav{
+    border: 2px solid black;
+    background-color: #131921;
+    display: flex;
+}
+
+
+.logo{
+    padding-left: 5px;
+    padding-top: 15px;
+    margin-left: 10px;
+   
+}
+
+
+.location{
+    padding-left: 13px;
+    padding-top: 12px;
+    margin: 8px;
+}
+
+.up1{
+    padding-left: 13px;
+    font-size: 12px;
+    color: #CCCCCC;
+    font-family: 'Amazon Ember', sans-serif;
+}
+
+.down1{                         
+    display: flex;
+    color: #ffffff;
+}
+
+.text1{
+    font-family: 'Amazon Ember', sans-serif;
+}
+
+
+.search{
+    display: flex;
+}
+
+ .left{
+    border-radius: 7px;
+    border: 1px;
+    padding-left: 5px;
+    padding-top: 18px;
+ }
+
+ .searchbar{
+    margin: 0 10px;  
+    height: 35px;  
+    width: 810px; 
+    border-radius: 5px;
+    border: 2px;
+    
+} 
+
+
+.flag{
+    display: flex;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+
+.txt{
+    padding-left: 5px;
+    padding-top: 4px;
+    font-family: 'Amazon Ember', sans-serif;
+} 
+
+
+.signin{
+ padding-right: 10px;
+ font-family: 'Amazon Ember', sans-serif;
+}
+
+.up2{
+    display: flex;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 0;
+}
+
+.down2{
+    display: flex;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-top: 0;
+}
+
+
+.return{
+    padding-right: 10px;
+    font-family: 'Amazon Ember', sans-serif;
+   }
+   
+   .up3{
+       display: flex;
+       color: #ffffff;
+       padding-left: 15px;
+       padding-top: 15px;
+       padding-bottom: 0;
+   }
+   
+   .down3{
+       display: flex;
+       color: #ffffff;
+       padding-left: 15px;
+       padding-top: 0;
+   }
+
+   .cart{
+    display: flex;
+    font-family: 'Amazon Ember', sans-serif;
+   }
+
+   .side{
+    color: #ffffff;
+    padding-left: 10px;
+    padding-top: 15px;
+   }
+
+   .side4{
+    color: #ffffff;
+    padding-left: 5px;
+    padding-top: 24px;
+   }
+
+     
+
+   .top1{
+    background-color: #232f3e;
+    height: 45px;
+    display: flex;
+    color: #ffffff;
+    gap: 1%;
+    padding-top: 10px;
+    padding-left: 45px;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 15px;
+   }
+
+.prime{
+    padding-left: 14px;
+}
+
+
+
+.top2{
+    background-color: #fafafa;
+    height: 40px;
+    display: flex;
+    color: #333333;
+    gap: 1%;
+    padding-top: 10px;
+    padding-left: 30px;
+    border-bottom: 1px solid;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 15px;
+   }
+
+
+   .top3{
+    background-color: #fff;
+    height: 40px;
+    display: flex;
+    gap: .3%;
+    padding-top: 2px;
+    padding-left: 30px;
+    border-bottom: 1px solid;
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 15px;
+   }
+
+   .left3{
+        color: #333333;
+       }
+
+       .right3{
+        color: #c96315;
+       }
+
+
+.CONTAIN{
+    display: flex;
+}
+
+.leftbox{
+ margin-right: 20px;
+}
+
+.firstsection{
+    padding-top: 15px;
+}
+
+.tit1{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.body1{
+    padding-left: 22px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.tit2{
+    padding-left: 26px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.body2{
+    padding-left: 35px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+
+.tit3{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.rate{
+    display: flex;
+    flex-direction: row;
+    padding-left: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+i{
+    color: yellow;
+}
+
+
+.tit4{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+
+
+.thirdsection{
+    display: flex;   
+}
+
+
+.body4{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box4{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  margin-top: 5px;
+}
+
+
+
+
+
+.foursection{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    padding-left: 15px; 
+    padding-bottom: 10px;
+}
+
+.Price{
+    padding-bottom: 4px;
+}
+
+
+
+.Deal{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    padding-left: 15px; 
+    padding-bottom: 10px;
+}
+
+
+.body5{
+  padding-top: 5px;
+}
+
+
+
+
+.tit6{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.sixsection{
+    display: flex;   
+}
+
+
+.body6{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box6{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  margin-top: 4px;
+  border-radius: 3px;
+}
+
+
+
+
+
+
+.tit7{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section7{
+    display: flex;   
+}
+
+
+.body7{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box7{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+.tit8{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section8{
+    display: flex;   
+}
+
+
+.body8{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box8{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+.tit9{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section9{
+    display: flex;   
+}
+
+
+.body9{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box9{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+.tit10{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section10{
+    display: flex;   
+}
+
+
+.body10{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box10{
+  color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+.tit11{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family:  'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section11{
+    display: flex;   
+}
+
+
+.body11{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box11{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 8px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+.tit12{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section12{
+    display: flex;   
+}
+
+
+.body12{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box12{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+.tit13{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section13{
+    display: flex;   
+}
+
+
+.body13{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box13{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+.tit14{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section14{
+    display: flex;   
+}
+
+
+.body14{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box14{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+.tit15{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section15{
+    display: flex;   
+}
+
+
+.body15{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box15{
+  color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+  
+}
+
+
+
+
+
+
+.tit16{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section16{
+    display: flex;   
+}
+
+
+.body16{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box16{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+.tit17{
+    padding-left: 15px;
+    padding-bottom: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px; 
+}
+
+.section17{
+    display: flex;   
+}
+
+
+.body17{
+    padding-left: 10px;
+    padding-top: 1px;
+    padding-bottom: 4px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+}
+
+.box17{
+    color: gray;
+  width: 17px;
+  height: 17px;
+  border: 2px solid;
+  box-shadow: 0.5px 0.5px ;
+  margin-left: 10px;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  margin-top: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.rightbox{
+padding-top: 20px;
+
+}
+
+
+.Headings1{
+    display: flex;
+    padding-bottom: 20px;
+    gap: 2%;
+
+}
+
+.lft1{
+    font-size: 32px; 
+    color: #0F1111;
+    padding-right: 15px;
+    border-right: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.rgt_top1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 16px;
+    color: #0F1111;
+    padding-top: 15px;
+}
+
+.rgt_bttm1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    color: #c96315;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+.Headings2{
+    padding-bottom: 30px;
+}
+
+.top22{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 21px;
+    color: #0F1111;
+    padding-bottom: 5px;
+}
+
+.bttm22{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #565959;
+}
+
+
+.contain1{
+    display: flex;
+    gap: .1%;
+    border: 1px solid rgb(209, 207, 207);
+    height: 291px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    /* background: grey; */
+    
+}
+  .CARD2{
+    width: 250px;
+    height: 285px;
+    border: 2px solid rgb(198, 194, 194);
+    padding-right: 45px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-right: 6px;
+  }
+
+  .CARD2Img{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: #e6e6e6;
+    width: 247px;
+  }
+
+  .CARD2txt{
+    background-color: white;
+  }
+
+.first{
+    background-color: #cc0c39;
+    border: 1px solid #cc0c39;
+    color: #ffffff;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 5px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+.secondd{
+    display: flex;
+}
+
+.second1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 10px;
+    padding-top: 3px;
+}
+.second2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 18px;
+}
+
+.discount{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+}
+
+
+
+
+.CARD3{
+    width: 250px;
+    height: 285px;
+    border: 2px solid rgb(198, 194, 194);
+    padding-right: 45px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-right: 6px;
+  }
+
+  .CARD3Img{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: #e6e6e6;
+    width: 247px;
+  }
+
+
+
+
+
+
+  .CARD4{
+    width: 250px;
+    height: 285px;
+    border: 2px solid rgb(198, 194, 194);
+    padding-right: 45px;
+    box-sizing: border-box;
+    border-radius: 3px;
+    margin-top: 3px;
+    margin-bottom: 10px;
+    margin-right: 8px;
+  }
+
+  .CARD4Img{
+    padding-left: 40px;
+    padding-top: 20px;
+    background-color: #e6e6e6;
+    width: 247px;
+    margin-right:45px ;
+  }
+
+
+
+
+  .contain2{
+    border: 2px solid rgb(209, 207, 207);
+    height: 4000px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+  }
+
+
+.row1{
+    display: flex;
+    gap: 2%;
+    padding-bottom: 20px;
+    margin-bottom: 60px;
+    height: 486px;
+    
+}
+
+
+ 
+.card11{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+.portion1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 16px;
+    color: #0F1111;
+}
+
+.portion2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    background: #f0f2f2;
+    border: 1px solid #f0f2f2;
+    border-radius: 2px;
+    padding: 4px 6px;
+    margin: 4px 0 0;
+    width: 50px;
+}
+
+
+.tags{
+    background-color: #cc0c39;
+    border: 1px solid #cc0c39;
+    color: #ffffff;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 5px;
+    width: 110px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+
+
+.amount{
+    display: flex;
+}
+
+
+.symbol{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    padding-top: 3px;
+    color: #0F1111;
+    padding-top: 3px;
+}
+
+
+.prices{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 28px;
+    color: #0F1111;
+}
+
+.texts{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #565959;
+    padding-top: 12px;
+    padding-right: 8px;
+}
+
+.off{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    padding-top: 12px;
+}
+
+
+.discounts{
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.discount_amt{
+    border: 1 px solid #7fda69;
+    background-color: #7fda69;
+    border-radius: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding: 0px 6px;
+}
+
+
+.discount_txt{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 8px;
+}
+
+
+
+.icons{
+    display: flex;
+}
+
+
+.icon_txt1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+
+.icon_txt2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-bottom: 8px;
+    padding-top: 0px;
+   
+}
+
+.button{
+    padding-top: 6px;
+    padding-left: 10px;
+    background-color: #ffd814;
+    color: #f5f5f5;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    width: 87px;
+    border-radius: 14px;
+}
+
+
+
+.card12{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+  
+
+.imgCard12{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+.card13{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card14{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card15{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+
+
+
+
+.row2{
+    display: flex;
+    gap: 2%;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+    height: 486px;
+    
+}
+
+
+
+.card21{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+.portion1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 16px;
+    color: #0F1111;
+}
+
+.portion2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    background: #f0f2f2;
+    border: 1px solid #f0f2f2;
+    border-radius: 2px;
+    padding: 4px 6px;
+    margin: 4px 0 0;
+    width: 50px;
+}
+
+
+.tags{
+    background-color: #cc0c39;
+    border: 1px solid #cc0c39;
+    color: #ffffff;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 5px;
+    width: 110px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+
+
+.amount{
+    display: flex;
+}
+
+
+.symbol{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    padding-top: 3px;
+    color: #0F1111;
+    padding-top: 3px;
+}
+
+
+.prices{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 28px;
+    color: #0F1111;
+}
+
+.texts{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #565959;
+    padding-top: 12px;
+    padding-right: 8px;
+}
+
+.off{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    padding-top: 12px;
+}
+
+
+.discounts{
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.discount_amt{
+    border: 1 px solid #7fda69;
+    background-color: #7fda69;
+    border-radius: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding: 0px 6px;
+}
+
+
+.discount_txt{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 8px;
+}
+
+
+
+.icons{
+    display: flex;
+}
+
+
+.icon_txt1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+
+.icon_txt2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-top: 5px;
+}
+
+.button{
+    padding-top: 6px;
+    padding-left: 10px;
+    background-color: #ffd814;
+    color: #f5f5f5;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    width: 87px;
+    border-radius: 14px;
+}
+
+
+
+.card22{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+  
+
+.imgCard22{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+.card23{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card24{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card25{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.row3{
+    display: flex;
+    gap: 2%;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    margin-bottom: 120px;
+    height: 486px;
+    
+}
+
+
+
+.card31{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+.portion1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 16px;
+    color: #0F1111;
+}
+
+.portion2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    background: #f0f2f2;
+    border: 1px solid #f0f2f2;
+    border-radius: 2px;
+    padding: 4px 6px;
+    margin: 4px 0 0;
+    width: 50px;
+}
+
+
+.tags{
+    background-color: #cc0c39;
+    border: 1px solid #cc0c39;
+    color: #ffffff;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 5px;
+    width: 110px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+
+
+.amount{
+    display: flex;
+}
+
+
+.symbol{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    padding-top: 3px;
+    color: #0F1111;
+    padding-top: 3px;
+}
+
+
+.prices{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 28px;
+    color: #0F1111;
+}
+
+.texts{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #565959;
+    padding-top: 12px;
+    padding-right: 8px;
+}
+
+.off{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    padding-top: 12px;
+}
+
+
+.discounts{
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.discount_amt{
+    border: 1 px solid #7fda69;
+    background-color: #7fda69;
+    border-radius: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding: 0px 6px;
+}
+
+
+.discount_txt{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 8px;
+}
+
+
+
+.icons{
+    display: flex;
+}
+
+
+.icon_txt1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+
+.icon_txt2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-top: 5px;
+}
+
+.button{
+    padding-top: 6px;
+    padding-left: 10px;
+    background-color: #ffd814;
+    color: #f5f5f5;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    width: 87px;
+    border-radius: 14px;
+}
+
+
+
+.card32{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+  
+
+.imgCard32{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+.card33{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card34{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card35{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+
+
+
+
+
+.row4{
+    display: flex;
+    gap: 2%;
+    padding-bottom: 20px;
+    padding-top: 50px;
+    margin-bottom: 100px;
+    height: 486px;
+    
+}
+
+
+
+.card41{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+.portion1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 16px;
+    color: #0F1111;
+}
+
+.portion2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    background: #f0f2f2;
+    border: 1px solid #f0f2f2;
+    border-radius: 2px;
+    padding: 4px 6px;
+    margin: 4px 0 0;
+    width: 50px;
+}
+
+
+.tags{
+    background-color: #cc0c39;
+    border: 1px solid #cc0c39;
+    color: #ffffff;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 12px;
+    border-radius: 2px;
+    border-width: 5px;
+    width: 110px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+
+
+.amount{
+    display: flex;
+}
+
+
+.symbol{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    padding-top: 3px;
+    color: #0F1111;
+    padding-top: 3px;
+}
+
+
+.prices{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 28px;
+    color: #0F1111;
+}
+
+.texts{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #565959;
+    padding-top: 12px;
+    padding-right: 8px;
+}
+
+.off{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0F1111;
+    padding-top: 12px;
+}
+
+
+.discounts{
+    display: flex;
+    padding-bottom: 8px;
+}
+
+.discount_amt{
+    border: 1 px solid #7fda69;
+    background-color: #7fda69;
+    width: 40px;
+    border-radius: 2px;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding: 0px 6px;
+}
+
+
+.discount_txt{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 8px;
+}
+
+
+
+.icons{
+    display: flex;
+}
+
+
+.icon_txt1{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-left: 5px;
+    margin-top: 10px;
+}
+
+.icon_txt2{
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 14px;
+    color: #0f1111;
+    padding-top: 5px;
+}
+
+.button{
+    padding-top: 6px;
+    padding-left: 10px;
+    background-color: #ffd814;
+    color: #f5f5f5;
+    font-family: 'Amazon Ember', Arial, sans-serif;
+    font-size: 13px;
+    height: 30px;
+    width: 87px;
+    border-radius: 14px;
+}
+
+
+
+.card42{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+  
+
+.imgCard42{
+  margin-left: 25px;
+}
+
+
+
+
+
+
+
+.card43{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card44{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
+
+
+
+
+.card45{
+    border: 2px solid #f5f5f5;
+    height: 500px;
+    width: 255px;
+}
